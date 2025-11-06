@@ -51,11 +51,11 @@ var gapps_info = {
     "desc" : "Meet",
     "iconpos" : "0px -2002px"
   },
-  "gpod": {
-    "url" : "https://podcasts.google.com/",
-    "desc" : "Podcasts",
-    "iconpos" : "0px -1312px"
-  },
+//  "gpod": {
+//    "url" : "https://podcasts.google.com/",
+//    "desc" : "Podcasts",
+//    "iconpos" : "0px -1312px"
+//  },
   "gplay": {
     "url" : "https://play.google.com/",
     "desc" : "Play",
@@ -76,11 +76,11 @@ var gapps_info = {
     "desc" : "Gemini",
     "iconpos" : "0px -2346px"
   },
-  "ghang": {
-    "url" : "https://hangouts.google.com/",
-    "desc" : "Hangouts",
-    "iconpos" : "0px -1793px"
-  },
+//  "ghang": {
+//    "url" : "https://hangouts.google.com/",
+//    "desc" : "Hangouts",
+//    "iconpos" : "0px -1793px"
+//  },
   "gcont": {
     "url" : "https://contacts.google.com/",
     "desc" : "Contacts",
