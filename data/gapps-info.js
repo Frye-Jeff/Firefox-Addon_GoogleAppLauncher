@@ -51,11 +51,11 @@ var gapps_info = {
     "desc" : "Keep",
     "iconpos" : "0px -897px"
   },
-//  "gpod": {
-//    "url" : "https://podcasts.google.com/",
-//    "desc" : "Podcasts",
-//    "iconpos" : "0px -1312px"
-//  },
+  "gnbklm": {
+    "url" : "https://notebooklm.google.com/",
+    "desc" : "Notebook",
+    "iconpos" : "0px -1312px"
+  },
   "gplay": {
     "url" : "https://play.google.com/",
     "desc" : "Play",
